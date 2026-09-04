@@ -1,19 +1,24 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& arr) {
-        int n = arr.size();
+    int majorityElement(vector<int>& nums) {
+        int n = nums.size();
 
-        for(int i = 0; i < n; i++){
-            int cnt = 0;
-            for(int j = 0 ; j < n; j++){
-                if(arr[i] == arr[j]){
-                    cnt++;
-                }
+        sort(nums.begin(), nums.end());
+
+        int freq = 1, ans = nums[0];
+        for(int i = 1; i < n; i++){
+            if(nums[i] == nums[i-1]){
+                freq++;
+            } 
+            else{ // reset freq to 1 and ans becomes nums[i];
+                freq = 1;
+                ans = nums[i];
             }
 
-            if(cnt > n / 2) return arr[i];
+            if(freq > n / 2){
+                return ans;
+            }
         }
-
-        return -1;
+        return ans;
     }
 };
