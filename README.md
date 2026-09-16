@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
 |  |
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
