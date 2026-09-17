@@ -17,7 +17,7 @@ public:
                 i++;
                 pos--;
             }
-            else if(abs(nums[i]) < abs(nums[j])){
+            else{
                 result[pos] = nums[j] * nums[j];
                 j--;
                 pos--;
