@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
