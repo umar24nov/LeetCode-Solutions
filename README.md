@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
@@ -64,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+## Greedy
+|  |
+| ------- |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 <!---LeetCode Topics End-->
