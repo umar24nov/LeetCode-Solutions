@@ -1,33 +1,28 @@
 class Solution {
 public:
-
-    int minDeletions(string str) {
+    int minDeletions(string s) {
         
-        int n = str.length();
+        int n = s.length();
 
         vector<int> freq(256, 0);
 
         for(int i = 0; i < n; i++){
-            freq[str[i]]++;
+            freq[s[i]]++;
         }
 
-
-        set<int> s;
-
+        set<int> used;
         int deletions = 0;
 
         for(int i = 0; i < 256; i++){
             if(freq[i] == 0) continue;
 
-
-            while(s.contains(freq[i])){
+            while(used.contains(freq[i])){
                 freq[i]--;
                 deletions++;
             }
 
-
             if(freq[i] > 0){
-                s.insert(freq[i]);
+                used.insert(freq[i]);
             }
         }
 
