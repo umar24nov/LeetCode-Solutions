@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
