@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 ## Greedy
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Counting
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0136-single-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
