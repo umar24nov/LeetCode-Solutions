@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
