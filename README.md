@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## String Matching
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 ## Greedy
