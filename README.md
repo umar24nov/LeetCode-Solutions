@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
