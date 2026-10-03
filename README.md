@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/umar24nov/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/umar24nov/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Counting
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+## Enumeration
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/umar24nov/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/umar24nov/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
