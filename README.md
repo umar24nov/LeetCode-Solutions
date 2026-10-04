@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0389-find-the-difference) |
