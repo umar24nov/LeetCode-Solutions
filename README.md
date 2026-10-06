@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
