@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1539-kth-missing-positive-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/umar24nov/LeetCode-Solutions/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Counting
