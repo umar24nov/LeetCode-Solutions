@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/umar24nov/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2404-most-frequent-even-element](https://github.com/umar24nov/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/umar24nov/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
